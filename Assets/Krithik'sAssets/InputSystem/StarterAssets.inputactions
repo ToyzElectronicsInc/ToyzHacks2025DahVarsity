@@ -45,7 +45,7 @@
                     "name": "To Be Breakdance Buttons",
                     "type": "Button",
                     "id": "38465de6-9330-41b4-9828-b0e0659310c1",
-                    "expectedControlType": "Button",
+                    "expectedControlType": "",
                     "processors": "",
                     "interactions": "",
                     "initialStateCheck": false
@@ -54,7 +54,7 @@
                     "name": "enterConfirm",
                     "type": "Button",
                     "id": "3fdcd682-86b9-4ca8-8ec8-c2996e9ade95",
-                    "expectedControlType": "Button",
+                    "expectedControlType": "",
                     "processors": "",
                     "interactions": "",
                     "initialStateCheck": false
@@ -81,7 +81,25 @@
                     "name": "TravelMenu",
                     "type": "Button",
                     "id": "15a7f568-81dc-405f-ba57-2d2006dc6ab2",
-                    "expectedControlType": "Button",
+                    "expectedControlType": "",
+                    "processors": "",
+                    "interactions": "",
+                    "initialStateCheck": false
+                },
+                {
+                    "name": "Power1",
+                    "type": "Button",
+                    "id": "9a9dd5ef-ecb4-4154-bcb5-bfb2dc096720",
+                    "expectedControlType": "",
+                    "processors": "",
+                    "interactions": "",
+                    "initialStateCheck": false
+                },
+                {
+                    "name": "Power2",
+                    "type": "Button",
+                    "id": "b8526fdc-f680-4845-a903-17eb3f46eabf",
+                    "expectedControlType": "",
                     "processors": "",
                     "interactions": "",
                     "initialStateCheck": false
@@ -327,6 +345,28 @@
                     "processors": "",
                     "groups": "",
                     "action": "TravelMenu",
+                    "isComposite": false,
+                    "isPartOfComposite": false
+                },
+                {
+                    "name": "",
+                    "id": "cc96b00c-7242-4fb7-8c27-29e0c1679c6b",
+                    "path": "<Keyboard>/e",
+                    "interactions": "",
+                    "processors": "",
+                    "groups": "",
+                    "action": "Power1",
+                    "isComposite": false,
+                    "isPartOfComposite": false
+                },
+                {
+                    "name": "",
+                    "id": "4e673232-19d2-447f-a0b0-0a44ad8cab57",
+                    "path": "<Keyboard>/r",
+                    "interactions": "",
+                    "processors": "",
+                    "groups": "",
+                    "action": "Power2",
                     "isComposite": false,
                     "isPartOfComposite": false
                 }
