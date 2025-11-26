@@ -1,0 +1,28 @@
+<!-- Required for microphone recording -->
+<key>NSMicrophoneUsageDescription</key>
+<string>We need microphone access for voice transcription.</string>
+
+<!-- If you capture video / camera -->
+<key>NSCameraUsageDescription</key>
+<string>We need camera access for video capture.</string>
+
+<!-- Required for iOS speech recognition (SFSpeechRecognizer) -->
+<key>NSSpeechRecognitionUsageDescription</key>
+<string>We use speech recognition to transcribe your voice.</string>
+
+<key>NSCameraUsageDescription</key>
+<string>This app uses the camera for video chat and visual processing.</string>
+
+<!-- If you save audio/video to Photos -->
+<key>NSPhotoLibraryAddUsageDescription</key>
+<string>We save recordings to your photo library when you choose to export them.</string>
+
+<!-- If you use Bluetooth audio (e.g., external microphone) -->
+<key>NSBluetoothAlwaysUsageDescription</key>
+<string>Bluetooth is used to connect external audio devices and microphones.</string>
+
+<!-- If you will record audio while app is backgrounded -->
+<key>UIBackgroundModes</key>
+<array>
+    <string>audio</string>
+</array>

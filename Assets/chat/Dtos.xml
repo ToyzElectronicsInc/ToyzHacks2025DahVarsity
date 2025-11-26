@@ -1,0 +1,9 @@
+<!-- Chat.SharedDtos.csproj -->
+<Project Sdk="Microsoft.NET.Sdk">
+  <PropertyGroup>
+    <TargetFramework>netstandard2.0</TargetFramework>
+    <Nullable>enable</Nullable>
+  </PropertyGroup>
+</Project>
+<!-- End of Chat.SharedDtos.csproj -->
+<!-- End of Dtos.xml -->
