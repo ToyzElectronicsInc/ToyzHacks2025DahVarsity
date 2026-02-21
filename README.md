@@ -42,12 +42,12 @@ cd ToyzHacks2025DahVarsity
 
 ### **2. Install Unity**
 
-**Version: Unity 2022.3.33f (LTS)**
+**Version: Unity 6.0.50f (LTS)**
 
 ```
 1. Download Unity Hub
 2. Unity Hub → Installs → Archives
-3. Download 2022.3.33f from https://unity.com/releases/editor/archive
+3. Download Unity v6.0.50f from https://unity.com/releases/editor/archive
 4. Add modules if needed (WebGL, Android, iOS)
 ```
 
